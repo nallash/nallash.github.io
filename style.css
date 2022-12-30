@@ -31,7 +31,7 @@ ul{
   text-transform: uppercase;
 }
 a.logo{
-  color: #2176FF;
+  color: #12e04c;
   font-family: 'Amatic SC',sans-serif;
   font-size: 34px;
   padding: 0px 60px;
@@ -42,7 +42,7 @@ a.logo{
   background-image: url("https://images.pexels.com/photos/164250/pexels-photo-164250.jpeg");
   background-position: center top;
   background-size: cover;
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #ffffff;
   height: 700px;
   position: relative;
   text-align: center;
@@ -64,7 +64,7 @@ h1{
   text-transform: uppercase;
 }
 h2{
-  color: #2176FF;
+  color: #12e04c;
   font-family: 'Amatic SC',sans-serif;
   font-size: 30px;
   margin: 0px;
@@ -76,7 +76,7 @@ h2{
   margin: -40px 0px 80px 0px;
 }
 .content{
-  background-image: url('golfballsimple.png');
+  background-image: url('https://images.pexels.com/photos/97768/pexels-photo-97768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
   background-position: center top;
   background-size: cover;
   border-bottom: 1px solid #eeeeee;
@@ -87,7 +87,7 @@ h2{
   text-align: center;
 }
 p{
-  color: #000000;
+  color: #ffffff;
   font-family: 'Raleway',sans-serif;
   font-size: 18px;
   line-height: 42px;
@@ -128,7 +128,7 @@ p{
   text-decoration: none;
 }
 .footer{
-  background-color: #2176FF;
+  background-color: #12e04c;
   padding: 30px;
   text-align: center;
 }
